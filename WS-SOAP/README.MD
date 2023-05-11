@@ -1,7 +1,7 @@
 <H1  style="text-align:center"> Soap BANKING </H1> 
 <H3>- Wsdl LIST </H3>
 <img src="Captures/Soapwsdl1.png" alt="error">
-<H3>- Schema xsd </H3>
+<H3>- Schema Xsd </H3>
 <img src="Captures/soap schema xml ou xsd 2.png" alt="error">
 <H2>- SoapUi (Test) </H2>
 <H3>- convert Method </H3>
